@@ -26,6 +26,12 @@ Você pode acessar e simular o circuito completo diretamente no Tinkercad atrav�
 2. Se a distância for menor ou igual a **25 cm**, o servo motor gira até **180 graus**, abrindo a catraca.
 3. Após **3 segundos**, a catraca retorna à posição original, girando o servo motor de volta para **90 graus**.
 
+### Vídeo de Demonstração
+
+Você pode assistir à demonstração do projeto no YouTube:
+
+[Assista à demonstração do projeto](https://youtu.be/XukkeVNsdAA)
+
 ## Como Rodar o Projeto
 1. Abra o código no **Arduino IDE** ou no **VS Code** com a extensão do Arduino instalada.
 2. Conecte o Arduino ao seu computador e faça o upload do código.
@@ -42,6 +48,6 @@ Este projeto demonstra a aplicação prática de sensores e atuadores com o uso 
 
 ---
 
-**Aluno:** Pedro Bianco e Larissa Góis
+**Alunos:** Pedro Bianco e Larissa Góis  
 **Disciplina:** Microcontroladores e IoT  
 **Faculdade:** FMU
